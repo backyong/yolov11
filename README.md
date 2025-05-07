@@ -1,7 +1,7 @@
 # yolov11
 https://docs.ultralytics.com/ko/models/yolo11/
+![image](https://github.com/user-attachments/assets/faf6c614-2b42-43c8-8159-c85846e36ef1)
 ![image](https://github.com/user-attachments/assets/fdc1af03-8454-4f75-8dfa-6e645d6f2d57)
-
 주요 기능
 향상된 특징 추출: YOLO11 향상된 백본 및 넥 아키텍처를 채택하여 더욱 정밀한 물체 감지 및 복잡한 작업 수행을 위해 특징 추출 기능을 향상시켰습니다.
 효율성과 속도에 최적화: YOLO11 은 정교한 아키텍처 설계와 최적화된 교육 파이프라인을 도입하여 처리 속도를 높이고 정확도와 성능 간의 최적의 균형을 유지합니다.
